@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/TitleScene.unity
+    guid: 0ca5e75f71bae1e4dae0de5302cac3a7
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/StoryScene.unity
+    guid: 4f49ff878466ae447a70e1c1b64a4ef9
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/DreamScene.unity
+    guid: 547695fa86452c84ebcb584cfc844277
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/Puzzle1.unity
+    guid: 01da5ae7e862f6c4db10c3bd5d9f71d0
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/Puzzle2.unity
+    guid: d972221d5e68235488bd7db3fb3576ec
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/ImagePuzzle1.unity
+    guid: 1d92992dac1998f4ead187b1d53b32e2
+  - enabled: 1
+    path: Assets/00_Main/00_Scenes/EndingScene.unity
+    guid: cfd64f9ed5567414884c8023d99013f3
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
